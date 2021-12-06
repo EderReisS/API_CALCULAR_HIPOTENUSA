@@ -33,7 +33,7 @@ Neste repositório estão localizadas 3 arquivos:
 
 ## Aplicação front-end:
 Também como parte desse projeto, foi criado uma aplicação utilizando **React.js**, cujo dados consumidos requisitam esta Api.Também, aqui o deploy foi realizado através do Heroku.
- - link da aplicação: <https://calculadora-react-ederreis.herokuapp.com/
+ - link da aplicação: <https://calculadora-react-ederreis.herokuapp.com/>
  - link repositório da aplicação: <https://github.com/EderReisS/calculadora-react>
 
 
