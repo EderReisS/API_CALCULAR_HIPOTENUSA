@@ -31,6 +31,11 @@ Neste repositório estão localizadas 3 arquivos:
 - ```link = 'https://api-pitagoras-ederreis.herokuapp.com/calcular_cateto/valor1/valor2'```
 -  Onde ```valor1``` e ```valor2``` são valores númericos de um dos catetos e a hipotenusa - dependendo do relação de valor (hipotenusa > cateto) aplicados no método, que retornará a relação dos lados do triângulo retângulo em ```json```.
 
+## Aplicação front-end:
+Também como parte desse projeto, foi criado uma aplicação utilizando **React.js**, cujo dados consumidos requisitam esta Api.Também, aqui o deploy foi realizado através do Heroku.
+ - link da aplicação: <https://calculadora-react-ederreis.herokuapp.com/
+ - link repositório da aplicação: <https://github.com/EderReisS/calculadora-react>
+
 
 💻 Configuração para Desenvolvimento
 
